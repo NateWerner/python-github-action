@@ -9,7 +9,7 @@ def add(num1:int,num2:int) -> int:
     Returns:
         int: addition of num1 and num2
     """
-    result = num1+num2 
+    result = num1 + num2 
     return result
 
 def sub(num1:int,num2:int) -> int:
